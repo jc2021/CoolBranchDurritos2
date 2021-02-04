@@ -6,7 +6,7 @@ namespace CoolBranchDurritos2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Desiro Lucky Charms");
+            Console.WriteLine("Desiro Lucky Charma");
             Console.WriteLine("Salve munde!");
             Console.WriteLine("Hola Mundo!");
         }
